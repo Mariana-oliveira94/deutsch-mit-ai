@@ -20,6 +20,7 @@ The goal is not to have AI do the learning for me. I use it as a practice partne
 - [Writing a short professional email](examples/02-professional-email.md)
 - [Talking about my work experience](examples/03-work-experience.md)
 - [Everyday German in Switzerland](examples/04-everyday-german.md)
+- [Nominative, accusative and dative explained simply](examples/05-german-cases.md)
 
 ## A prompt I use
 
